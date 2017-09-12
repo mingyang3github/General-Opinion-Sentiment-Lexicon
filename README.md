@@ -1,5 +1,5 @@
 ## Brief Introduction
-This general opinion lexicon was proposed by me and my collegues to benefit the research of mining specific opinions from texts. The effectiveness of this lexicon has been fully proved in our paper (see below). This lexicon consists of a list of general positive opinons and a list of general negative opinions.
+This general opinion lexicon was proposed by me and my collegues to benefit the research of mining specific opinions from texts. The effectiveness of this lexicon has been fully proved in our paper (see below). This lexicon consists of **253** general positive opinons and **295** general negative opinions.
 The general opinion words in our lists are manually selected from the [opinion lists proposed by Bing Liu](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html).
 
 ## General Opinions vs Specific Opinions
