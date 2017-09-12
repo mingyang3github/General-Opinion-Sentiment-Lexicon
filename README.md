@@ -1,5 +1,6 @@
-## Goal
-This general opinion lexicon was proposed by me and my colleagues, which can benefit the reseach of mining specific opinions from texts.
+## Brief Introduction
+This general opinion lexicon was proposed by me and my collegues to benefit the research of mining specific opinions from texts. The effectiveness of this lexicon has been fully proved in our paper (see below). This lexicon consists of a list of general positive opinons and a list of general negative opinions.
+The general opinion words in our lists are manually selected from the [opinion lists](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html) proposed by Bing Liu.
 
 ## General Opinions vs Specific Opinions
 General opinions in texts are the words, such as good, great, bad. These opinions can express the sentiment of the word. However, they are not very useful for us to understand the reason behind the sentiment.
