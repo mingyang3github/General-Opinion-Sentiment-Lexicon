@@ -7,10 +7,9 @@ On the contrary, specific opinions contain both the sentiment information and th
 
 ## Brief Introduction
 This lexicon consists of a list of general positive opinons and a list of negative opinions.
-The opinions in the lists are manually selected from the opinion lists proposed by Bing Liu. Please find the link below:
-https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html
+The opinions in the lists are manually selected from the [opinion lists](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html) proposed by Bing Liu.
 
 ## Citation
 If you use our general opinion lexicon in your research or publication, please cite the following paper:
-Mingyang Xu, Ruxin Yang, Paul Jones, Nagiza F. Samatova, Mining Aspect-Specific Opinions from Online Reviews Using a Latent Embedding Structured Topic Model, in International Conference on Intelligent Text Processing and Computational Linguistics, Apr 17-23,2017
+* Mingyang Xu, Ruxin Yang, Paul Jones, Nagiza F. Samatova, Mining Aspect-Specific Opinions from Online Reviews Using a Latent Embedding Structured Topic Model, in International Conference on Intelligent Text Processing and Computational Linguistics, Apr 17-23,2017
 
